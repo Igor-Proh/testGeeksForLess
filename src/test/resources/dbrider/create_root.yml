@@ -1,0 +1,9 @@
+ROOT:
+  - ROOT_ID: 1
+    ROOT_VALUE: "0"
+    EQUATION_ID: 1
+
+  - ROOT_ID: 2
+    ROOT_VALUE: "2"
+    EQUATION_ID: 2
+
